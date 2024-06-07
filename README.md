@@ -1,6 +1,6 @@
 <!-- Do Not Copy -->
 
-<h1 align="center">Nishat Tasnim's Portfolio <img src="https://giphy.com/embed/ixN1f5UlViepnCjHkn/giphy.gif" width="35"></h1>
+<h1 align="center">Nishat Tasnim's Portfolio <img src="https://media.giphy.com/media/ixN1f5UlViepnCjHkn/giphy.gif" width="35"></h1>
 
 <p align="center">
     <a href="https://nishattasnim01.github.io/Nishat-Tasnim/" target="_blank">
