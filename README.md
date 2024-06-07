@@ -35,7 +35,6 @@ Feel free to reach out to me via:
 - **Facebook**: [Nishat Tasnim](https://www.facebook.com/profile.php?id=100057417531922)
 
 ---
----
 
 Thank you for visiting my portfolio! If you have any questions or would like to collaborate, don't hesitate to get in touch.
 
