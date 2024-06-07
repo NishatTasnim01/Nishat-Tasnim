@@ -1,4 +1,4 @@
-# Nishat Tasnim's Portfolio
+<h1 align="center";"> Nishat Tasnim's Portfolio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Welcome to my personal portfolio repository! This is the home for showcasing my projects, skills, and experiences. Feel free to explore and get to know more about me and my work.
 
@@ -8,11 +8,11 @@ Visit my live portfolio at: [Nishat Tasnim's Portfolio](https://nishattasnim01.g
 
 ## 📖 Table of Contents
 
-- [Home](#home)
-- [About](#about)
-- [Services](#services)
-- [Projects](#projects)
-- [Contact](#contact)
+- [Home](https://nishattasnim01.github.io/Nishat-Tasnim/)
+- [About](https://nishattasnim01.github.io/Nishat-Tasnim/)
+- [Services](https://nishattasnim01.github.io/Nishat-Tasnim/)
+- [Projects](https://nishattasnim01.github.io/Nishat-Tasnim/)
+- [Contact](https://nishattasnim01.github.io/Nishat-Tasnim/)
 
 ## 👩‍💼 About Me
 
@@ -44,10 +44,11 @@ Feel free to reach out to me via:
 - **LinkedIn**: [Nishat Tasnim](https://www.linkedin.com/in/nishatt-tasnim-065a79279)
 - **Facebook**: [Nishat Tasnim](https://www.facebook.com/profile.php?id=100057417531922)
 
+<!--
 ## 📜 License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
----
+--->
 
 Thank you for visiting my portfolio! If you have any questions or would like to collaborate, don't hesitate to get in touch.
