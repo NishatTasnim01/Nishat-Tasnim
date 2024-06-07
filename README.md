@@ -1,3 +1,5 @@
+<!-- Do Not Copy -->
+
 <h1 align="center";"> Nishat Tasnim's Portfolio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Hello! I'm Nishat Tasnim, a passionate research enthusiast with a keen interest in data science, computer vision. My goal is to create impactful solutions and contribute to meaningful projects. Welcome to my personal portfolio repository! This is the home for showcasing my projects, skills, and experiences. Feel free to explore and get to know more about me and my work.
