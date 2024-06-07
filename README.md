@@ -16,7 +16,7 @@ Hello! I'm Nishat Tasnim, a passionate research enthusiast with a keen interest 
 
 Give a look at my live portfolio at: [Nishat Tasnim's Portfolio](https://nishattasnim01.github.io/Nishat-Tasnim/)
 
-<img align="right" alt="Coding" height="350" width="350" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif">
+<img align="right" alt="Coding" height="300" width="350" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif">
 
 ## 📖 Table of Contents
 
