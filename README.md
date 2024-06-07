@@ -28,7 +28,7 @@ Give a look at my live portfolio at: [Nishat Tasnim's Portfolio](https://nishatt
 
 Feel free to reach out to me via:
 
-- **Email**: <a href="mailto:nishatt315@gmail.com">nishatt315@gmail.com</a>
+- **Email**: <a href="mailto:nishatt315@gmail.com"></a>
 - **LinkedIn**: [Nishat Tasnim](https://www.linkedin.com/in/nishatt-tasnim-065a79279)
 - **Facebook**: [Nishat Tasnim](https://www.facebook.com/profile.php?id=100057417531922)
 
