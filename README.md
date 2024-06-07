@@ -18,7 +18,7 @@ Give a look at my live portfolio at: [Nishat Tasnim's Portfolio](https://nishatt
 
 <br>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ## 📖 Table of Contents
 
