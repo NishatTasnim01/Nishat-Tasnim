@@ -16,6 +16,11 @@ Hello! I'm Nishat Tasnim, a passionate research enthusiast with a keen interest 
 
 Give a look at my live portfolio at: [Nishat Tasnim's Portfolio](https://nishattasnim01.github.io/Nishat-Tasnim/)
 
+<br>
+<p align="right">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+</p>
+
 ## 📖 Table of Contents
 
 - [Home](https://nishattasnim01.github.io/Nishat-Tasnim/)
@@ -23,6 +28,7 @@ Give a look at my live portfolio at: [Nishat Tasnim's Portfolio](https://nishatt
 - [Services](https://nishattasnim01.github.io/Nishat-Tasnim/)
 - [Projects](https://nishattasnim01.github.io/Nishat-Tasnim/)
 - [Contact](https://nishattasnim01.github.io/Nishat-Tasnim/)
+<br>
 
 ## 📫 Contact
 
@@ -33,11 +39,6 @@ Feel free to reach out to me via:
 - **Facebook**: [Nishat Tasnim](https://www.facebook.com/profile.php?id=100057417531922)
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
-</p>
-
 ---
 
 Thank you for visiting my portfolio! If you have any questions or would like to collaborate, don't hesitate to get in touch.
