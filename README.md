@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://nishattasnim01.github.io/Nishat-Tasnim/" target="_blank">
-        <img src="https://img.shields.io/badge/Visit-Portfolio-pink?style=for-the-badge" alt="Portfolio">
+        <img src="https://img.shields.io/badge/Visit-Portfolio-purple?style=for-the-badge" alt="Portfolio">
     </a>
 </p>
 
