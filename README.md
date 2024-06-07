@@ -2,11 +2,9 @@
 
 <h1 align="center">Nishat Tasnim's Portfolio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
----
-
 <p align="center">
     <a href="https://nishattasnim01.github.io/Nishat-Tasnim/" target="_blank">
-        <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge" alt="Portfolio">
+        <img src="https://img.shields.io/badge/Visit-Portfolio-pink?style=for-the-badge" alt="Portfolio">
     </a>
 </p>
 
