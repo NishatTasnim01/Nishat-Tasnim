@@ -28,13 +28,13 @@ Here are some of the projects I've worked on:
 3. **Project 3**: [Description and link to project]
 
 For a complete list of my projects, please visit my [Portfolio](https://nishattasnim01.github.io/Nishat-Tasnim/).
--->
 
 ## 🛠️ Skills
 
 - **Programming Languages**: C, C++, Python, Java
 - **Web Development**: HTML, CSS, Bootstrap
 - **Tools and Platforms**: Git, GitHub, Jupyter Notebook
+-->
 
 ## 📫 Contact
 
