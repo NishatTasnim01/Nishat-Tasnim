@@ -38,21 +38,7 @@ For a complete list of my projects, please visit my [Portfolio](https://nishatta
 
 Feel free to reach out to me via:
 
-<p align="center">
-  <a href="mailto:nishatt315@gmail.com">
-    <img src="https://github.com/smashik716/Icons/blob/main/Gmail.svg?style=for-the-badge&logo=GMail&logoColor=red" alt="Gmail">
-  </a> &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/nishatt-tasnim-065a79279">
-    <img src="https://github.com/smashik716/Icons/blob/main/Linked%20in.svg?style=for-the-badge&logo=linkedin&logoColor=grey" alt="LinkedIn">
-  </a> &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.facebook.com/profile.php?id=100057417531922">
-    <img src="https://github.com/smashik716/Icons/blob/main/Facebook.svg?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook">
-  </a>
-</p>
-
-- **Email**: nishatt315@gmail.com
+- **Email**: "mailto:nishatt315@gmail.com"
 - **LinkedIn**: [Nishat Tasnim](https://www.linkedin.com/in/nishatt-tasnim-065a79279)
 - **Facebook**: [Nishat Tasnim](https://www.facebook.com/profile.php?id=100057417531922)
 
