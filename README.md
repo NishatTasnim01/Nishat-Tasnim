@@ -9,12 +9,12 @@
 </p>
 
 <p align="left">
-    Hello! I'm Nishat Tasnim, a passionate research enthusiast with a keen interest in data science and computer vision. My goal is to create impactful solutions and contribute to meaningful projects. Welcome to my personal portfolio repository! This is the home for showcasing my projects, skills, and experiences. Feel free to explore and get to know more about me and my work.
+Hello! I'm Nishat Tasnim, a passionate research enthusiast with a keen interest in data science and computer vision. My goal is to create impactful solutions and contribute to meaningful projects. Welcome to my personal portfolio repository! This is the home for showcasing my projects, skills, and experiences. Feel free to explore and get to know more about me and my work.
 </p>
 
 ## 🌐 Live Site
 
-Visit my live portfolio at: [Nishat Tasnim's Portfolio](https://nishattasnim01.github.io/Nishat-Tasnim/)
+Give a look at my live portfolio at: [Nishat Tasnim's Portfolio](https://nishattasnim01.github.io/Nishat-Tasnim/)
 
 ## 📖 Table of Contents
 
